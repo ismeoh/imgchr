@@ -1,3 +1,4 @@
 init file
 add 1
 add 1 by test
+test rebase
